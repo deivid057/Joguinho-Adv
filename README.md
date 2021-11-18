@@ -1,2 +1,4 @@
-# Joguinho-Adv
-Joguinho de Adivinha no Terminal
+# Joguinho de Advinha :)
+
+ *Joguinho bem simples no terminal!  : )*
+
